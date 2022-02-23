@@ -1,0 +1,353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pindaric ode, sacred to the memory of the Most Reverend Father in God, Dr. William Sancroft once master of Emmanuel College in Cambridge, and late arch-bishop of Canterbury, who departed this life November 24th. 1693.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37235</idno>
+            <idno type="STC">Wing D40</idno>
+            <idno type="STC">ESTC R14922</idno>
+            <idno type="EEBO-CITATION">12255644</idno>
+            <idno type="OCLC">ocm 12255644</idno>
+            <idno type="VID">57419</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57419)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 888:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pindaric ode, sacred to the memory of the Most Reverend Father in God, Dr. William Sancroft once master of Emmanuel College in Cambridge, and late arch-bishop of Canterbury, who departed this life November 24th. 1693.</title>
+                  <author>J. D.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.B., and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Assigned by Wing to "J.D.", but perhaps confused with "A pindarique ode: humbly offer'd to the ever-blessed memory of ... Queen Mary" by Samuel Cobb but published under the initials "J.D."</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sancroft, William, 1617-1693.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57419:1"/>
+            <!-- PDF PAGE 10 -->
+            <pb facs="tcp:57419:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <p>A Pindaric ODE, Sacred to the MEMORY OF <hi>The Moſt Reverend Father in GOD,</hi> D<hi rend="sup">R.</hi> 
+               <hi>VVilliam Sancroft,</hi> Once MASTER of <hi>EMMANUEL College</hi> IN CAMBRIDGE, AND LATE Arch-BISHOP OF CANTERBURY, Who Departed this LIFE <hi>November</hi> 24th. 1693.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T.B.</hi> and are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall,</hi> MDCXCIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb facs="tcp:57419:2"/>
+            <!-- PDF PAGE 11 -->
+            <pb n="3" facs="tcp:57419:2"/>
+            <!-- PDF PAGE 11 -->
+            <head>A Pindaric ODE, Sacred to the MEMORY OF <hi>The Moſt Reverend Father in GOD,</hi> D<hi rend="sup">R.</hi> 
+               <hi>VVilliam Sancroft, &amp;c.</hi>
+            </head>
+            <lg>
+               <head>
+                  <hi>Strophe</hi> I.</head>
+               <l>ONce more Vouchſafe, Indulgent Muſe,</l>
+               <l>T' inflame my ſuppliant Breaſt with ſacred Fire;</l>
+               <l>Since now a Task I chuſe,</l>
+               <l>The Nobleſt and the Ableſt to Inſpire,</l>
+               <l>The <hi>Saddeſt,</hi> yet the <hi>Worthieſt,</hi> Theme,</l>
+               <l>That e're engag'd our Eyes in Tears to flow,</l>
+               <l>Or e're requir'd a full <hi>Caſtalian</hi> Stream,</l>
+               <l>To bear the Solemn Pomp of Numerous Woe.</l>
+               <l>Much <hi>Grief</hi> enchas'd with <hi>Joy</hi> is to be ſet,</l>
+               <l>An <hi>Iv'ry Triumph</hi> in <hi>Diſpairing Jet;</hi>
+               </l>
+               <l>
+                  <hi>Sadneſs</hi> and <hi>Pleaſure</hi> here muſt Play their Part,</l>
+               <l>With mighty <hi>Truths</hi> Adorn'd with Wondrous <hi>Art.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:57419:3"/>
+               <!-- PDF PAGE 12 -->
+               <head>
+                  <hi>Antiſtrophe</hi> I.</head>
+               <l>'Tis <hi>SANCROFT</hi>'s Venerable Name,</l>
+               <l>Great <hi>CANTERBURY</hi>'s Greater Patriarch,</l>
+               <l>The Nation's <hi>Pride</hi> and <hi>Shame,</hi>
+               </l>
+               <l>That now becomes the Muſe's worthy Mark,</l>
+               <l>Thou, Goddeſs, tho' the Mark be high,</l>
+               <l>And far beyond a Mortal's humble Ken,</l>
+               <l>Be ſure to Reach it with a Daring Eye,</l>
+               <l>And lively Touches of a Skilful Pen.</l>
+               <l>And that Succeſs may favour Thee the more,</l>
+               <l>Invoke that Goodneſs, <hi>SANCROFT</hi> did adore:</l>
+               <l>Call to thine Aid thoſe High Celeſtial Powers,</l>
+               <l>That now have Crown'd Him theirs, who late was Ours.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Epod.</hi> I.</head>
+               <lg>
+                  <l>Ah! How the Numbers of his Vertues riſe!</l>
+                  <l>Ah! How his Splendors Dazle Mortal Eyes!</l>
+                  <l>Ah! How his Rays Engagingly Surprize!</l>
+               </lg>
+               <l>What Art ſhall now the various Scenes relate?</l>
+               <l>How ſhall our Zeal the God-like Hero trace,</l>
+               <l>From <hi>Freſingfield,</hi> his Native Place,</l>
+               <l>Thro' all the Turns of his Maeandrous Fate?</l>
+               <l>
+                  <hi>EMMANUEL</hi> Firſt the hopeful Scholar took,</l>
+               <l>And Smil'd on Him with her Auſpicious Look;</l>
+               <l>She Saw her Image in his Eye expreſt,</l>
+               <l>And at firſt View,</l>
+               <l>The Mighty, Flowing Treaſures knew,</l>
+               <l>The Wealth of his All-comprehending Breaſt.</l>
+               <l>There fix'd in her bright Zodiac long he ſhone,</l>
+               <l>Of Twelve the brighteſt Conſtellation:</l>
+               <l>Till high advanc'd to the Phoebéan Carr,</l>
+               <l>His Beams appear'd more Bright and Darted far.</l>
+               <l>
+                  <pb n="5" facs="tcp:57419:3"/>
+                  <!-- PDF PAGE 12 -->
+Him Fair <hi>EMMANUEL</hi> did Create</l>
+               <l>Her <hi>Maſter,</hi> (as the World miſcals the Name,)</l>
+               <l>Tho' He took on Him but a <hi>Servile</hi> State,</l>
+               <l>The Grandeur all to his <hi>Emmanuel</hi> Came:</l>
+               <l>He would be <hi>Leſs,</hi> that She might riſe more <hi>Great.</hi>
+               </l>
+               <l>Thence <hi>Paul</hi> receiv'd his Venerable Head,</l>
+               <l>And He reliev'd the much Diſtreſſed <hi>Paul:</hi>
+               </l>
+               <l>His Tent He near the bleſt Apoſtle Spread,</l>
+               <l>And Built, and was Himſelf to Him, a Wall.</l>
+               <l>Till, <hi>Sheldon</hi> falling from the ſacred Throne,</l>
+               <l>To <hi>Canterbury</hi>'s brighter Orb he roſe:</l>
+               <l>Wiſe <hi>Charles</hi> durſt on his Shoulders ſtrong alone</l>
+               <l>The mighty Bulk of that Vaſt Globe repoſe.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Strophe</hi> II.</head>
+               <l>But now what Tongue, what Pen, what Art,</l>
+               <l>Can half the Summ of his High Praiſes tell?</l>
+               <l>The Depth of his Wiſe Heart,</l>
+               <l>Religion's ſpring, Learning's unfathom'd Well?</l>
+               <l>The Treaſures of his Wealthy Mind,</l>
+               <l>The Magazines of his well furniſh'd Brain,</l>
+               <l>His <hi>Love</hi> Diffuſive, <hi>Favour</hi> unconfin'd,</l>
+               <l>
+                  <hi>Senſe</hi> Quick, as Lightning, <hi>Candor</hi> Sweet as Rain?</l>
+               <l>
+                  <hi>Judgment,</hi> as piercing, as the Eye of Day;</l>
+               <l>
+                  <hi>Patience,</hi> amidſt injurious Treatments Gay,</l>
+               <l>
+                  <hi>Humility,</hi> like Corn in fertile Vales,</l>
+               <l>And well-fix'd <hi>Loyalty,</hi> which never fails?</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:57419:4"/>
+               <!-- PDF PAGE 13 -->
+               <head>
+                  <hi>Antiſtrophe.</hi> II.</head>
+               <l>Witneſs, Bleſt <hi>Lambeth,</hi> lately Bleſt,</l>
+               <l>When <hi>SANCROFT</hi>'s Preſence cheer'd Her gladſom Heart:</l>
+               <l>Witneſs, his Conſtant Gueſt,</l>
+               <l>The <hi>Poor,</hi> which ne'r from Him did Empty part.</l>
+               <l>Witneſs the <hi>Church,</hi> his only Wife,</l>
+               <l>His Friend, his Darling, Dear as Light or Breath:</l>
+               <l>That held her Triumph's equal with his Life,</l>
+               <l>But Loſt Her Crown and Comfort at his Death.</l>
+               <l>Witneſs thoſe Ears, that heard his Wond'rous Senſe,</l>
+               <l>And thoſe his Works; that now freſh Life Commence.</l>
+               <l>Witneſs theſe Times, that could not ſhake his Soul,</l>
+               <l>And Future Times, that will his Fame Enroul.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Epod.</hi> II.</head>
+               <lg>
+                  <l>Muſe Change thy Note! This Glorious Orb of Light</l>
+                  <l>Is now Eclips'd, and all his Splendors Bright,</l>
+                  <l>Sunk in th' Abyſs of Everlaſting Night.</l>
+               </lg>
+               <l>
+                  <hi>EMMANUEL</hi> weeps, and <hi>Freſingfield</hi> is ſad,</l>
+               <l>The <hi>Church</hi> is Widow'd, Deſtitute the <hi>State,</hi>
+               </l>
+               <l>
+                  <pb n="7" facs="tcp:57419:4"/>
+                  <!-- PDF PAGE 13 -->
+                  <hi>Lambeth</hi> Deplores her Rigid Fate,</l>
+               <l>And <hi>Learning</hi> is in Weeds of <hi>Sable</hi> clad:</l>
+               <l>Our <hi>Iſrael</hi> is Depriv'd of her Defence,</l>
+               <l>Her Horſe and Chariots now are Raviſh'd hence,</l>
+               <l>And <hi>Loyalty</hi> and <hi>Vertue</hi> hence are Fled:</l>
+               <l>Religion's Name</l>
+               <l>Remains, but She's no more the ſame:</l>
+               <l>See, how, alas! She hangs her drooping Head.</l>
+               <l>Farewel, Great <hi>Prelate,</hi> Laſt and Beſt of all,</l>
+               <l>That e're were veſted with the Sacred Pall:</l>
+               <l>Prince of our <hi>Confeſſors</hi> Triumphant Crew,</l>
+               <l>Pride of the Crown and of the Mitre too:</l>
+               <l>Thee, <hi>SANCROFT,</hi> Heaven hath now enrol'd,</l>
+               <l>Secure, and far remov'd from Mortal Cares,</l>
+               <l>Crown'd and Rewarded now Thouſand Fold,</l>
+               <l>For all thy Faith, thy Patience, Love and Prayers,</l>
+               <l>And Stately Walking on Aethereal Mold.</l>
+               <l>We, wretched Souls, low grov'ling on the Ground,</l>
+               <l>Depriv'd of thy Paternal, Paſt'ral Care,</l>
+               <l>T' unequal Times and Chains of Error Bound,</l>
+               <l>Will yet ende'vour our Loſſes to Repair.</l>
+               <l>Still on thy Bright Example We will look,</l>
+               <l>And Learn from thence Things Preſent to Deſpiſe,</l>
+               <l>And Study Heaven in thy Diviner Book,</l>
+               <l>Which doth the Counterpart of Heaven Comprize.</l>
+            </lg>
+            <q>
+               <floatingText>
+                  <body>
+                     <div type="epitaph">
+                        <pb n="8" facs="tcp:57419:5"/>
+                        <!-- PDF PAGE 14 -->
+                        <div xml:lang="grc" type="version">
+                           <lg>
+                              <head>ἘΠΙΤΆΦΙΟΝ ἈΥΤΟ .</head>
+                              <l>Α. <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>
+                              </l>
+                              <l>
+                                 <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>
+                              </l>
+                              <l>Β. <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>
+                              </l>
+                              <l>
+                                 <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>
+                              </l>
+                              <l>Α. <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>
+                              </l>
+                              <l>Α. <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>
+                              </l>
+                           </lg>
+                        </div>
+                        <div xml:lang="eng" type="version">
+                           <head>His EPITAPH.</head>
+                           <lg>
+                              <l>α <hi>SAY, Virgins, what are You, whoſe Mournful Face</hi>
+                              </l>
+                              <l>
+                                 <hi>Augments the Sadneſs of this Burial Place?</hi>
+                              </l>
+                              <l>β <hi>Our Name's Religion, Learning, Charity,</hi>
+                              </l>
+                              <l>
+                                 <hi>Vertue, an Humble Mind and Loyalty.</hi>
+                              </l>
+                              <l>α <hi>Who then Lies here?</hi> β Sancroft <hi>the Good and Wiſe.</hi>
+                              </l>
+                              <l>α <hi>Alas! All Worth with Him Entombed lies.</hi>
+                              </l>
+                           </lg>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
